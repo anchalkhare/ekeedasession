@@ -5,3 +5,4 @@ def subtractTwoNums(a,b):
     
 subtractTwoNums(2,3)
     
+subtractTwoNums(3,2)
